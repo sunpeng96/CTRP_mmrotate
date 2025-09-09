@@ -5,7 +5,7 @@ Peng Sun, Yongbin Zheng, Wanying Xu, Jian Li, and Jiansong Yang
 This is the official implementation of the paper: **Completing Missing Entities: Exploring Consistency Reasoning for Remote Sensing Object Detection**, which is implemented on [MMrotate](https://github.com/open-mmlab/mmrotate).
 <img width="1000" height="230" alt="statistics" src="https://github.com/user-attachments/assets/5abe9465-75c2-41e2-99d8-8b33259dbcd0" />
 
-<img width="1000" height="360" alt="overview" src="https://github.com/user-attachments/assets/d616946e-dd28-4dfb-bffd-f97516dfbd9d" />
+<img width="1000" height="360" alt="overview" src="https://github.com/user-attachments/assets/e4ed0a3e-7a59-4fc1-99af-223cc08a5a51" />
 
 ---
 
