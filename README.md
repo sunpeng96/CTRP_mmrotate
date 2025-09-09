@@ -3,9 +3,9 @@ Peng Sun, Yongbin Zheng, Wanying Xu, Jian Li, and Jiansong Yang
 
 ## 🌟 Introduction
 This is the official implementation of the paper: **Completing Missing Entities: Exploring Consistency Reasoning for Remote Sensing Object Detection**, which is implemented on [MMrotate](https://github.com/open-mmlab/mmrotate).
-<img width="1000" height="230" alt="statistics" src="https://github.com/user-attachments/assets/1f09b897-4802-48a4-b34b-96c5d22f0ada" />
+<img width="1000" height="230" alt="statistics" src="https://github.com/user-attachments/assets/5abe9465-75c2-41e2-99d8-8b33259dbcd0" />
 
-<img width="1000" height="360" alt="overview" src="https://github.com/user-attachments/assets/5ca4cec3-eecd-47a5-9e3a-166bbd78625c" />
+<img width="1000" height="360" alt="overview" src="https://github.com/user-attachments/assets/d616946e-dd28-4dfb-bffd-f97516dfbd9d" />
 
 ---
 
@@ -23,10 +23,10 @@ You can use the program in the demo to carry out experiments. where [checkpoint]
 
 ## 🌟 Qualitative Results
 ### Remote Sensing Object Detection Task
-<img width="1000" height="480" alt="remote sensing object detection yask" src="https://github.com/user-attachments/assets/7ffa06bf-362a-4ecc-a504-fee0247fcf23" />
+<img width="1000" height="480" alt="remote sensing object detection yask" src="https://github.com/user-attachments/assets/8dd04967-c468-4b29-a11f-65eb6138e951" />
 
 ### Occluded Object Detection Task
-<img width="1000" height="480"  alt="occluded object detection task" src="https://github.com/user-attachments/assets/08e5a575-f91a-47f9-8c1c-bb8dd53baea9" />
+<img width="1000" height="480"  alt="occluded object detection task" src="https://github.com/user-attachments/assets/a333eb2e-949a-43bb-8635-5d1d2d451335" />
 
 ## 🌟 Quantitative Results
 ## Benchmark
