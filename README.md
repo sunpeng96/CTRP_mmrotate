@@ -58,29 +58,12 @@ You can use the program in the demo to carry out experiments. where [checkpoint]
 If you use this toolbox or benchmark in your research, please cite this project.
 
 ```bibtex
-@article{Li_2024_IJCV,
-  title={LSKNet: A Foundation Lightweight Backbone for Remote Sensing},
-  author={Li, Yuxuan and Li, Xiang and Dai, Yimain and Hou, Qibin and Liu, Li and Liu, Yongxiang and Cheng, Ming-Ming and Yang, Jian},
-  journal={International Journal of Computer Vision},
-  year={2024},
-  doi = {https://doi.org/10.1007/s11263-024-02247-9},
-  publisher={Springer}
-}
-
-@InProceedings{Li_2023_ICCV,
-    author    = {Li, Yuxuan and Hou, Qibin and Zheng, Zhaohui and Cheng, Ming-Ming and Yang, Jian and Li, Xiang},
-    title     = {Large Selective Kernel Network for Remote Sensing Object Detection},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-    month     = {October},
-    year      = {2023},
-    pages     = {16794-16805}
-}
-
-@article{yuan2025strip,
-  title={Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection},
-  author={Yuan, Xinbin and Zheng, ZhaoHui and Li, Yuxuan and Liu, Xialei and Liu, Li and Li, Xiang and Hou, Qibin and Cheng, Ming-Ming},
-  journal={arXiv preprint arXiv:2501.03775},
-  year={2025}
+@article{Sun202xCTRP,
+  title={Completing Missing Entities: Exploring Consistency Reasoning for Oriented Object Detection},
+  author={Peng, Sun and Yongbin, Zheng and Wanying, Xu and Jian, Li and Jiansong, Yang},
+  journal={Submitted to IEEE TRANSACTIONS ON IMAGE PROCESSING},
+  year={2025},
+  publisher={IEEE}
 }
 
 ```
