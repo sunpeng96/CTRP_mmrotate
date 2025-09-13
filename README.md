@@ -58,7 +58,7 @@ You can use the program in the demo to carry out experiments. where [checkpoint]
 If you use this toolbox or benchmark in your research, please cite this project.
 
 ```bibtex
-@article{Sun202xCTRP,
+@article{Sun2025CTRP,
   title={Completing Missing Entities: Exploring Consistency Reasoning for Oriented Object Detection},
   author={Peng, Sun and Yongbin, Zheng and Wanying, Xu and Jian, Li and Jiansong, Yang},
   journal={Submitted to IEEE TRANSACTIONS ON IMAGE PROCESSING},
