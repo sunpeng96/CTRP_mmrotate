@@ -66,5 +66,7 @@ If you use this toolbox or benchmark in your research, please cite this project.
   volume={},
   number={},
   pages={1-1},
-  doi={10.1109/TIP.2025.3648164}}
+  doi={10.1109/TIP.2025.3648164},
+  publisher={IEEE}
+}
 ```
