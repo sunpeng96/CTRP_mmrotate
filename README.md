@@ -59,11 +59,12 @@ If you use this toolbox or benchmark in your research, please cite this project.
 
 ```bibtex
 @article{Sun2025CTRP,
-  title={Completing Missing Entities: Exploring Consistency Reasoning for Oriented Object Detection},
-  author={Peng, Sun and Yongbin, Zheng and Wanying, Xu and Jian, Li and Jiansong, Yang},
-  journal={Submitted to IEEE TRANSACTIONS ON IMAGE PROCESSING},
-  year={2025},
-  publisher={IEEE}
-}
-
+  title={Completing Missing Entities: Exploring Consistency Reasoning for Remote Sensing Object Detection},
+  author={Sun, Peng and Zheng, Yongbin and Xu, Wanying and Li, Jian and Yang, Jiansong},
+  journal={IEEE Transactions on Image Processing},   
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIP.2025.3648164}}
 ```
