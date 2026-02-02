@@ -1,4 +1,4 @@
-# Completing Missing Entities: Exploring Consistency Reasoning for Oriented Object Detection
+# Completing Missing Entities: Exploring Consistency Reasoning for Remote Sensing Object Detection
 Peng Sun, Yongbin Zheng, Wanying Xu, Jian Li, and Jiansong Yang
 
 ## 🌟 Introduction
